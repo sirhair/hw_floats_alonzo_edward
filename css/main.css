@@ -15,14 +15,15 @@
 
 .box-2 {
     background: green;
-    float:right;
-
+    float:left;
+    clear:both;
 }
 
 .box-3 {
 	/*blue*/
     background: #0021A5;
     float:right;
+    clear:both;
 }
 
 .box-4 {
