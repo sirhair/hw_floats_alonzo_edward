@@ -16,18 +16,19 @@
 .box-2 {
     background: green;
     float:left;
+    clear:both;
 }
 
 .box-3 {
 	/*blue*/
     background: #0021A5;
-    float:left;
-    clear:left;
+    float:right;
+    clear:both;
 }
 
 .box-4 {
 	/*orange*/
     background: #FF4A00;
-    float:right;
-    clear:right;
+    float:left;
+    clear:both;
 }
