@@ -5,3 +5,6 @@ img {
 h1{
 	float:right;
 }
+body p:nth-child(5){
+	clear:both;
+}
